@@ -1,3 +1,9 @@
+initramfs-tools (0.130ubuntu3.6bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Fri, 22 Feb 2019 10:18:17 +0100
+
 initramfs-tools (0.130ubuntu3.6) bionic-security; urgency=medium
 
   * scripts/functions: include a new option to skip enslaved network
