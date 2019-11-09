@@ -1,3 +1,9 @@
+initramfs-tools (0.130ubuntu3.9bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 09 Nov 2019 04:22:51 +0100
+
 initramfs-tools (0.130ubuntu3.9) bionic; urgency=medium
 
   * Add support for panic=-1 value (LP: #1831252)
