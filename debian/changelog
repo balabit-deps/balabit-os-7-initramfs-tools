@@ -1,3 +1,9 @@
+initramfs-tools (0.130ubuntu3.10bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 19 Sep 2020 04:24:09 +0200
+
 initramfs-tools (0.130ubuntu3.10) bionic; urgency=medium
 
   * Cherrypick upstream commit to copy libgcc_s, as a dependency of
