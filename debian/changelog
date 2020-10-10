@@ -1,3 +1,9 @@
+initramfs-tools (0.130ubuntu3.11bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 10 Oct 2020 04:23:14 +0200
+
 initramfs-tools (0.130ubuntu3.11) bionic; urgency=medium
 
   [ Guilherme G. Piccoli ]
